@@ -1,9 +1,10 @@
+ @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&family=Red+Hat+Display:wght@500;700;900&display=swap');
 body{
 	background-color:hsl(212, 45%, 89%);
 	min-height:100vh;
 	display:grid;
 	place-items: center;
-	font-family: 'outfit', san-serif;
+	font-family: 'Outfit', sans-serif;
 }
 	* { 
 	margin:0;
